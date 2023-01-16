@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(4, 47, 90);
+}
+
+#head {
+    margin-top: 20px;
+    color: rgb(72, 234, 72);
+    font-size: small;
+    font-weight: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    text-align: center;
+
+}
+
+#prah {
+    margin: 30px;
+    padding: 15px;
+    color: rgb(255, 245, 245);
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.mo {
+    display: flex;
+    justify-content: center;
+}
+
+.adv {
+    justify-self: center;
+    display: grid;
+    height: 250px;
+    width: 350px;
+    background-color: #525057;
+    border-radius: 5px;
+    margin-top: 30vh;
+}
+
+#fa-solidfa-pause {
+    margin-top: 10px;
+}
+
+#icons {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+
+#five {
+    background-color: lawngreen;
+    border-radius: 50%;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    width: 20px;
+    margin-left: 45%;
+
+}
+
+#fa-solidfa-dice-five {
+    display: flex;
+    justify-content: center;
+
+}
